@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [snippet] Disable pycache and remove existing folders from project
+title: Snippet - Disable pycache and remove existing folders from project
 ---
 
 Delete pycache from project:
