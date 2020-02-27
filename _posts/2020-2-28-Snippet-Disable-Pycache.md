@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Snippet - Disable pycache and remove existing folders from project
+categories: [blog, snippets]
+tags: [python, bash]
 ---
 
 Delete pycache from project:
