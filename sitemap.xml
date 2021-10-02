@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://luigi.dev/en/sitemap.xml</loc>
+    
+      <lastmod>2021-10-02T16:29:26+10:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://luigi.dev/pt-br/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>

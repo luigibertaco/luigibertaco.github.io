@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luigi.Dev</title>
+    <link>https://luigi.dev/</link>
+    <description>Recent content on Luigi.Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 02 Oct 2021 16:29:26 +1000</lastBuildDate><atom:link href="https://luigi.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Placeholder will delete soon</title>
+      <link>https://luigi.dev/posts/placeholder-testing/</link>
+      <pubDate>Sat, 02 Oct 2021 16:29:26 +1000</pubDate>
+      
+      <guid>https://luigi.dev/posts/placeholder-testing/</guid>
+      <description>Just some content
+def func_name(*args, **kwargs): ... </description>
+    </item>
+    
+  </channel>
+</rss>
